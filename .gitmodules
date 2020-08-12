@@ -1,3 +1,6 @@
 [submodule "sudmoduleserver"]
 	path = sudmoduleserver
 	url = https://github.com/ShantanuMadane/sudmoduleserver.git
+[submodule "submodule2"]
+	path = submodule2
+	url = https://github.com/ShantanuMadane/submodule2.git
