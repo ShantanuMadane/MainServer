@@ -1,0 +1,3 @@
+[submodule "sudmoduleserver"]
+	path = sudmoduleserver
+	url = https://github.com/ShantanuMadane/sudmoduleserver.git
